@@ -1,0 +1,7 @@
+﻿,Line #,Name,Description,Designator,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,Capacitor 10 pF +/- 5% 50 V 0603,"Chip Capacitor, 10 pF, +/- 5%, 50 V, 0603 (1608 Metric)",C1,1,Yageo Group,CC0603JRNPO9BN100,Volume Production,Arrow Electronics,CC0603JRNPO9BN100,0.0062,24.8
+,,679303124022,,P1,1,Wurth Elektronik,679303124022,Unknown,DigiKey,732-2716-1-ND,1.27,1.27
+,,RK73B1JTTD514J,,R1,1,KOA Speer,RK73B1JTTD514J,Volume Production,DigiKey,2019-RK73B1JTTD514JCT-ND,0.1,0.1
+,,ERJ-3EKF1000V,,R2,1,Panasonic,ERJ-3EKF1000V,Volume Production,Avnet,85Y8496,0.099,0.099
+,,RC0603FR-071ML,"Chip Resistor, 1 MOhm, +/- 1%, 100 mW, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel",R3,1,Yageo Group,RC0603FR-071ML,Volume Production,Newark,98K7342,0.009,0.09
+,,MK17-B-2,"Photoelectric Sensor, Rectangular, Surface Mount",SW1,1,Standex-Meder Electronics,MK17-B-2,Volume Production,DigiKey,374-1021-1-ND,3.05,3.05
